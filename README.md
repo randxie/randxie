@@ -1,4 +1,4 @@
-👋 Hi, I’m @randxie, a data scientist turned machine learning system engineer, currently working on scalable ML training, feature & model serving infrastructure. In my free time, I enjoy building open-source software and participating in data science challenges ([Kaggle profile](https://www.kaggle.com/randxie)). Recently, I am spending more time on applying latest vision research to products, including NERF and stable diffusion.
+👋 Hi, I’m @randxie, a data scientist turned machine learning system engineer, currently working on scalable ML training, feature store, model serving and generative AI infrastructure. In my free time, I enjoy building open-source software and participating in data science challenges ([Kaggle profile](https://www.kaggle.com/randxie)).
 
 Before working on machine learning, I worked on machines. I hold a bachelor and master in mechanical engineering, and had spent 4 years in the field of predictive maintenance, including:
 
