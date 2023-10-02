@@ -1,4 +1,6 @@
-👋 Hi, I’m @randxie, a data scientist turned machine learning system engineer, currently working on scalable ML training, feature store, model serving and generative AI infrastructure. In my free time, I enjoy building open-source software and participating in data science challenges ([Kaggle profile](https://www.kaggle.com/randxie)).
+👋 Hi, I’m @randxie, a data scientist turned machine learning system engineer, currently exploring new things in the LLM field.
+
+Previously, I led the ML platform team in Robinhood to build feature store, ML model training / serving / monitoring and generative AI infrastructure. I also spent 2 years in Google Cloud - Vertex AI doing similar things (built ML infrastructure products on Google cloud). In my free time, I enjoy building open-source software and participating in data science challenges ([Kaggle profile](https://www.kaggle.com/randxie)).
 
 Before working on machine learning, I worked on machines. I hold a bachelor and master in mechanical engineering, and had spent 4 years in the field of predictive maintenance, including:
 
